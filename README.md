@@ -4,10 +4,9 @@ Website design for a burger restaurant.
 
 ## Features
 
-- Fullscreen mode
 - Cross platform
 - Intuitive menu card
-- Contact form
+- Booking table form
 
 ## Technologies
 
